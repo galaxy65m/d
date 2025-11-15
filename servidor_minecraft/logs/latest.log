@@ -1,0 +1,874 @@
+[00:00:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:02:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[00:04:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:04:36] [Server thread/INFO]: [galaxy65m: Teleported galaxy65m to 3169.500000, 97.500000, 1484.500000]
+[00:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:05:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:10:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:11:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:11:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:15:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:16:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:18:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:36:33] [Server thread/INFO]: galaxy65m lost connection: Timed out
+[00:36:33] [Server thread/INFO]: galaxy65m left the game
+[00:36:33] [Server thread/INFO]: remove player wand
+[00:36:33] [Server thread/INFO]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[01:56:02] [Server thread/INFO]: [Handshake] Sending channel query
+[01:56:02] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[01:56:02] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[01:56:02] [Server thread/INFO]: kenro06[/127.8.80.54:36445] logged in with entity id 34153 at (305.29005707956867, 37.54579426239796, 144.53188410710615)
+[01:56:02] [Server thread/INFO]: Sending server config values to client
+[01:56:02] [Server thread/INFO]: Syncing config to kenro06 (5e9f35a5-82d0-3729-9e06-c09d59ced6d0)
+[01:56:02] [Server thread/INFO]: Loading config from file...
+[01:56:02] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[01:56:02] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:56:03] [Server thread/INFO]: kenro06 joined the game
+[01:56:03] [Server thread/INFO]: Loading Configs for Sortilege
+[01:56:03] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[01:56:03] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[01:56:03] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[01:56:03] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[01:56:03] [Server thread/INFO]: Updating all forceload tickets for 5e9f35a5-82d0-3729-9e06-c09d59ced6d0
+[01:56:03] [Server thread/INFO]: PLAYER_JOIN
+[01:56:03] [Server thread/INFO]: add_player wand
+[01:56:03] [Server thread/INFO]: config sent
+[01:56:04] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[01:56:06] [Netty Epoll Server IO #0/INFO]: Channel update: kenro06 -> default
+[01:56:06] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player kenro06. Claiming: GRAVE / Robbing: INVENTORY
+[01:56:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[01:56:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4177ms or 83 ticks behind
+[01:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2595ms or 51 ticks behind
+[01:57:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4203ms or 84 ticks behind
+[01:57:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4320ms or 86 ticks behind
+[01:57:35] [Server thread/INFO]: [Handshake] Sending channel query
+[01:57:35] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[01:57:35] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[01:57:35] [Server thread/INFO]: nino_alf[/127.33.4.109:48221] logged in with entity id 35184 at (3169.628429304316, 91.0, 1438.8893160357836)
+[01:57:35] [Server thread/INFO]: Sending server config values to client
+[01:57:35] [Server thread/INFO]: Syncing config to nino_alf (0353a03d-9344-32df-a99e-c414295afec8)
+[01:57:35] [Server thread/INFO]: Loading config from file...
+[01:57:35] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[01:57:35] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:57:35] [Server thread/INFO]: nino_alf joined the game
+[01:57:35] [Server thread/INFO]: Loading Configs for Sortilege
+[01:57:35] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[01:57:35] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[01:57:35] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[01:57:35] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[01:57:35] [Server thread/INFO]: Updating all forceload tickets for 0353a03d-9344-32df-a99e-c414295afec8
+[01:57:35] [Server thread/INFO]: PLAYER_JOIN
+[01:57:35] [Server thread/INFO]: add_player wand
+[01:57:35] [Server thread/INFO]: config sent
+[01:57:37] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[01:57:40] [Netty Epoll Server IO #3/INFO]: Channel update: nino_alf -> default
+[01:57:40] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player nino_alf. Claiming: GRAVE / Robbing: INVENTORY
+[01:57:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6702ms or 134 ticks behind
+[01:58:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4403ms or 88 ticks behind
+[01:58:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
+[01:58:33] [Server thread/INFO]: nino_alf lost connection: Timed out
+[01:58:33] [Server thread/INFO]: nino_alf left the game
+[01:58:33] [Server thread/INFO]: remove player wand
+[01:58:33] [Server thread/INFO]: Updating all forceload tickets for 0353a03d-9344-32df-a99e-c414295afec8
+[01:58:33] [Server thread/WARN]: handleDisconnection() called twice
+[01:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3495ms or 69 ticks behind
+[01:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[01:59:18] [Server thread/INFO]: [Handshake] Sending channel query
+[01:59:18] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[01:59:18] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[01:59:18] [Server thread/INFO]: nino_alf[/127.33.4.109:42323] logged in with entity id 35923 at (3169.628429304316, 91.0, 1438.8893160357836)
+[01:59:18] [Server thread/INFO]: Sending server config values to client
+[01:59:18] [Server thread/INFO]: Syncing config to nino_alf (0353a03d-9344-32df-a99e-c414295afec8)
+[01:59:18] [Server thread/INFO]: Loading config from file...
+[01:59:19] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[01:59:19] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:59:19] [Server thread/INFO]: nino_alf joined the game
+[01:59:19] [Server thread/INFO]: Loading Configs for Sortilege
+[01:59:19] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[01:59:19] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[01:59:19] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[01:59:19] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[01:59:19] [Server thread/INFO]: Updating all forceload tickets for 0353a03d-9344-32df-a99e-c414295afec8
+[01:59:19] [Server thread/INFO]: PLAYER_JOIN
+[01:59:19] [Server thread/INFO]: add_player wand
+[01:59:19] [Server thread/INFO]: config sent
+[01:59:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3492ms or 69 ticks behind
+[01:59:20] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[01:59:21] [Netty Epoll Server IO #5/INFO]: Channel update: nino_alf -> default
+[01:59:21] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player nino_alf. Claiming: GRAVE / Robbing: INVENTORY
+[01:59:27] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of nino_alf accepted server config.
+[01:59:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2679ms or 53 ticks behind
+[01:59:38] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of nino_alf accepted server config.
+[02:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10327ms or 206 ticks behind
+[02:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10792ms or 215 ticks behind
+[02:00:52] [Server thread/INFO]: kenro06 has made the advancement [Ruby Ore]
+[02:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14162ms or 283 ticks behind
+[02:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12957ms or 259 ticks behind
+[02:01:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10794ms or 215 ticks behind
+[02:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10096ms or 201 ticks behind
+[02:02:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10771ms or 215 ticks behind
+[02:03:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10418ms or 208 ticks behind
+[02:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9705ms or 194 ticks behind
+[02:03:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11090ms or 221 ticks behind
+[02:04:18] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/38251, l='ServerLevel[world]', x=184.65, y=-168.50, z=340.47] died: Nightmare Steed was killed
+[02:04:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12057ms or 241 ticks behind
+[02:04:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11377ms or 227 ticks behind
+[02:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11623ms or 232 ticks behind
+[02:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11870ms or 237 ticks behind
+[02:05:46] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[02:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12413ms or 248 ticks behind
+[02:06:24] [Server thread/INFO]: [Handshake] Sending channel query
+[02:06:24] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[02:06:24] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[02:06:26] [Server thread/INFO]: galaxy65m[/127.24.0.73:39891] logged in with entity id 39614 at (3167.390000015497, 97.0, 1437.4979519743156)
+[02:06:26] [Server thread/INFO]: Sending server config values to client
+[02:06:26] [Server thread/INFO]: Syncing config to galaxy65m (df766ae6-3208-3bf3-8926-4d9ae4061ea9)
+[02:06:26] [Server thread/INFO]: Loading config from file...
+[02:06:26] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[02:06:26] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:06:26] [Server thread/INFO]: galaxy65m joined the game
+[02:06:26] [Server thread/INFO]: Loading Configs for Sortilege
+[02:06:26] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[02:06:26] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[02:06:26] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[02:06:26] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:06:27] [Server thread/INFO]: PLAYER_JOIN
+[02:06:27] [Server thread/INFO]: add_player wand
+[02:06:27] [Server thread/INFO]: config sent
+[02:06:27] [Server thread/INFO]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[02:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15213ms or 304 ticks behind
+[02:07:02] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[02:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19223ms or 384 ticks behind
+[02:07:24] [Server thread/INFO]: galaxy65m lost connection: Timed out
+[02:07:24] [Server thread/INFO]: galaxy65m left the game
+[02:07:24] [Server thread/INFO]: remove player wand
+[02:07:24] [Server thread/INFO]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[02:07:24] [Server thread/WARN]: handleDisconnection() called twice
+[02:07:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14379ms or 287 ticks behind
+[02:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13594ms or 271 ticks behind
+[02:08:43] [Server thread/INFO]: [Handshake] Sending channel query
+[02:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13575ms or 271 ticks behind
+[02:08:43] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[02:08:43] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[02:08:44] [Server thread/INFO]: galaxy65m[/127.24.0.73:36485] logged in with entity id 40978 at (3167.390000015497, 97.0, 1437.4979519743156)
+[02:08:44] [Server thread/INFO]: Sending server config values to client
+[02:08:44] [Server thread/INFO]: Syncing config to galaxy65m (df766ae6-3208-3bf3-8926-4d9ae4061ea9)
+[02:08:44] [Server thread/INFO]: Loading config from file...
+[02:08:44] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[02:08:44] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:08:44] [Server thread/INFO]: galaxy65m joined the game
+[02:08:44] [Server thread/INFO]: Loading Configs for Sortilege
+[02:08:44] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[02:08:44] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[02:08:44] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[02:08:44] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:08:44] [Server thread/INFO]: PLAYER_JOIN
+[02:08:44] [Server thread/INFO]: add_player wand
+[02:08:44] [Server thread/INFO]: config sent
+[02:08:44] [Server thread/INFO]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[02:08:45] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[02:08:47] [Netty Epoll Server IO #2/INFO]: Channel update: galaxy65m -> default
+[02:08:47] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player galaxy65m. Claiming: GRAVE / Robbing: INVENTORY
+[02:08:53] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[02:09:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21315ms or 426 ticks behind
+[02:09:27] [Server thread/WARN]: kenro06 moved wrongly!
+[02:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21080ms or 421 ticks behind
+[02:10:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21285ms or 425 ticks behind
+[02:11:08] [Server thread/INFO]: [galaxy65m: Set own game mode to Spectator Mode]
+[02:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21844ms or 436 ticks behind
+[02:11:14] [Server thread/INFO]: [galaxy65m: Teleported galaxy65m to Mango]
+[02:11:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16651ms or 333 ticks behind
+[02:12:02] [Worker-Main-110/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/43174, l='ServerLevel[world]', x=-50.00, y=31.00, z=87.00] as it would cause deadlock
+[02:12:02] [Worker-Main-137/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/43176, l='ServerLevel[world]', x=-57.00, y=31.00, z=74.00] as it would cause deadlock
+[02:12:02] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/43181, l='ServerLevel[world]', x=-50.00, y=31.00, z=87.00] as it would cause deadlock
+[02:12:02] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/43183, l='ServerLevel[world]', x=-57.00, y=31.00, z=74.00] as it would cause deadlock
+[02:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18839ms or 376 ticks behind
+[02:12:21] [Server thread/INFO]: [galaxy65m: Set own game mode to Survival Mode]
+[02:12:28] [Server thread/INFO]: [galaxy65m: Set own game mode to Spectator Mode]
+[02:12:33] [Server thread/INFO]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[02:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18932ms or 378 ticks behind
+[02:12:54] [Server thread/INFO]: [galaxy65m: Set own game mode to Survival Mode]
+[02:13:20] [Server thread/INFO]: [galaxy65m: Set own game mode to Spectator Mode]
+[02:13:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18164ms or 363 ticks behind
+[02:13:34] [Server thread/INFO]: [galaxy65m: Set own game mode to Survival Mode]
+[02:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16171ms or 323 ticks behind
+[02:14:21] [Server thread/INFO]: kenro06 has made the advancement [War Pigs]
+[02:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18441ms or 368 ticks behind
+[02:14:47] [Server thread/INFO]: [galaxy65m: Gave 1 [Sword of Freyr] to nino_alf]
+[02:14:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17277ms or 345 ticks behind
+[02:15:20] [Server thread/INFO]: kenro06 has made the advancement [The Ire in Fire]
+[02:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18029ms or 360 ticks behind
+[02:15:50] [Server thread/INFO]: [galaxy65m: Teleported galaxy65m to 3169.500000, 97.500000, 1484.500000]
+[02:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18976ms or 379 ticks behind
+[02:16:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21555ms or 431 ticks behind
+[02:17:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21036ms or 420 ticks behind
+[02:17:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19667ms or 393 ticks behind
+[02:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19257ms or 385 ticks behind
+[02:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19111ms or 382 ticks behind
+[02:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18703ms or 374 ticks behind
+[02:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19693ms or 393 ticks behind
+[02:20:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18246ms or 364 ticks behind
+[02:21:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18658ms or 373 ticks behind
+[02:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19020ms or 380 ticks behind
+[02:22:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23275ms or 465 ticks behind
+[02:22:28] [Server thread/INFO]: kenro06 has made the advancement [Novice Spellcaster]
+[02:23:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22762ms or 455 ticks behind
+[02:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22872ms or 457 ticks behind
+[02:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23151ms or 463 ticks behind
+[02:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22165ms or 443 ticks behind
+[02:25:05] [Server thread/INFO]: [galaxy65m: Teleported galaxy65m to 3169.500000, 97.500000, 1484.500000]
+[02:25:33] [Server thread/INFO]: kenro06 has made the advancement [Into Fire]
+[02:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19016ms or 380 ticks behind
+[02:25:40] [Server thread/INFO]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[02:26:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14962ms or 299 ticks behind
+[02:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14615ms or 292 ticks behind
+[02:26:46] [Server thread/INFO]: nino_alf has made the advancement [Local Librarian]
+[02:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14921ms or 298 ticks behind
+[02:27:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11516ms or 230 ticks behind
+[02:27:35] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: death_knights:blood isComplete: false
+[02:27:39] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: death_knights:blood isComplete: false
+[02:27:40] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: death_knights:blood isComplete: false
+[02:27:41] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: death_knights:blood isComplete: true
+[02:27:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11840ms or 236 ticks behind
+[02:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12838ms or 256 ticks behind
+[02:28:34] [Server thread/INFO]: kenro06 burned to death
+[02:28:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13343ms or 266 ticks behind
+[02:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10772ms or 215 ticks behind
+[02:29:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14807ms or 296 ticks behind
+[02:30:02] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/52876, l='ServerLevel[world]', x=3046.66, y=-155.00, z=1200.76] died: Nightmare Steed was killed
+[02:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17243ms or 344 ticks behind
+[02:30:38] [Server thread/INFO]: nino_alf tried to swim in lava
+[02:30:39] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of nino_alf accepted server config.
+[02:30:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17646ms or 352 ticks behind
+[02:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15823ms or 316 ticks behind
+[02:31:27] [Server thread/INFO]: [galaxy65m: Teleported kenro06 to Mango]
+[02:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14327ms or 286 ticks behind
+[02:32:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13050ms or 261 ticks behind
+[02:32:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12193ms or 243 ticks behind
+[02:33:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11756ms or 235 ticks behind
+[02:33:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10586ms or 211 ticks behind
+[02:34:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11394ms or 227 ticks behind
+[02:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10172ms or 203 ticks behind
+[02:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11905ms or 238 ticks behind
+[02:35:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12597ms or 251 ticks behind
+[02:35:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11857ms or 237 ticks behind
+[02:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15165ms or 303 ticks behind
+[02:36:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14156ms or 283 ticks behind
+[02:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16306ms or 326 ticks behind
+[02:37:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15963ms or 319 ticks behind
+[02:38:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13600ms or 272 ticks behind
+[02:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11726ms or 234 ticks behind
+[02:39:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10751ms or 215 ticks behind
+[02:39:20] [Server thread/INFO]: <nino_alf> xaero-waypoint:Shared Location:S:2665:~:1569:4:false:0:Internal-overworld-waypoints
+[02:39:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10727ms or 214 ticks behind
+[02:39:45] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.28850362712387323
+[02:39:45] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0
+[02:39:45] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0
+[02:39:46] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.3311253087995283
+[02:39:46] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0
+[02:39:46] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0
+[02:39:46] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0
+[02:39:48] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/59600, l='ServerLevel[world]', x=3656.28, y=-119.26, z=1493.27] died: Nightmare Steed was killed
+[02:40:03] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.8766669028550496
+[02:40:03] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.9123964435898415
+[02:40:04] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0
+[02:40:04] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.7357394596897393
+[02:40:04] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0
+[02:40:04] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.4994294545235789
+[02:40:09] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.4155139908334604
+[02:40:09] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.520981106390991
+[02:40:09] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.8923496291727133
+[02:40:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14004ms or 280 ticks behind
+[02:40:13] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.2803417345935486
+[02:40:13] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.7108417219469629
+[02:40:13] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0402579977640882
+[02:40:36] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.8164147206412053
+[02:40:36] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.6614503619202878
+[02:40:36] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 2.0873978174427066
+[02:40:36] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 2.243521940691153
+[02:40:36] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 2.4679466451198095
+[02:40:40] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.2694005666130579
+[02:40:40] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5176778531713353
+[02:40:40] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5682202330608561
+[02:40:40] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.63044290123662
+[02:40:40] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.6583982451757038
+[02:40:40] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.6128111722505309
+[02:40:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17617ms or 352 ticks behind
+[02:40:53] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.9783013331211805
+[02:40:53] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.3340528131825522
+[02:40:53] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.513144772578471
+[02:40:53] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.6927897664459124
+[02:40:53] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.8727222599454763
+[02:40:55] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.29039020501295454
+[02:40:55] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.7279118809969987
+[02:40:55] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.2547335620060949
+[02:40:55] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.839099523565892
+[02:40:56] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.8205014778463919
+[02:40:56] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.8714228739904684
+[02:40:56] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.923144264081202
+[02:40:56] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 2.975294459210545
+[02:40:56] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.859431283775848
+[02:40:56] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.9065011473016966
+[02:40:56] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 2.959261412507203
+[02:41:03] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.9271011056207499
+[02:41:03] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 2.082163280207169
+[02:41:03] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 3.238942996074911
+[02:41:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15102ms or 302 ticks behind
+[02:41:45] [Server thread/INFO]: <nino_alf> xaero-waypoint:Shared Location:S:2663:63:1563:12:false:0:Internal-overworld-waypoints
+[02:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21798ms or 435 ticks behind
+[02:42:08] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.7798055735356684
+[02:42:08] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.9014633227061495
+[02:42:08] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 3.035702465201666
+[02:42:20] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/59799, l='ServerLevel[world]', x=3114.30, y=-132.00, z=1534.06] died: Nightmare Steed was killed
+[02:42:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15670ms or 313 ticks behind
+[02:42:29] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.481943726940699
+[02:42:32] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.562986386371449
+[02:42:32] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0
+[02:42:32] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0
+[02:42:32] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5435035459172468
+[02:42:32] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.3780277560686045
+[02:42:32] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 2.3682713213256648
+[02:42:33] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/61728, l='ServerLevel[world]', x=3211.79, y=-125.84, z=1516.39] died: Nightmare Steed was killed
+[02:42:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8840ms or 176 ticks behind
+[02:43:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7560ms or 151 ticks behind
+[02:43:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8286ms or 165 ticks behind
+[02:43:50] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.4968115886395026
+[02:43:50] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5982002352911877
+[02:43:50] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5725298077979915
+[02:43:50] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.2794366726285797
+[02:43:50] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.9960406475573473
+[02:43:50] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5973579497031096
+[02:43:50] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.597409929159312
+[02:43:50] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5754524965573182
+[02:43:51] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.6985494502168876
+[02:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11685ms or 233 ticks behind
+[02:44:23] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.6361160998803825
+[02:44:23] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.7759887457941659
+[02:44:23] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.9302692021051371
+[02:44:23] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5460352654026792
+[02:44:23] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.38436953518885275
+[02:44:23] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.3791470452665635
+[02:44:23] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.4576398846775191
+[02:44:23] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5462102784067611
+[02:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12073ms or 241 ticks behind
+[02:44:24] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.4292231670142428
+[02:44:24] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.41024291034318594
+[02:44:24] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5613042670745623
+[02:44:24] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.573617314573994
+[02:44:24] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.3232816127010665
+[02:44:24] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.41441491581911133
+[02:44:24] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5251105230533994
+[02:44:24] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.6746789334045223
+[02:44:25] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.36008566715440793
+[02:44:25] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.3114475559927805
+[02:44:25] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.47231470679959
+[02:44:26] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.2926683398445675
+[02:44:26] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.38537563923318885
+[02:44:26] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.2581206602153543
+[02:44:28] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.530941534217618
+[02:44:28] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.3421247174424025
+[02:44:28] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 2.1626772000199708
+[02:44:28] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 3.063775554536503
+[02:44:31] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.6389300432351774
+[02:44:31] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.5001521789838534
+[02:44:31] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.1377858884043235
+[02:44:31] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.25
+[02:44:31] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.3690328563845924
+[02:44:31] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.25303479834108317
+[02:44:31] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.302015910882119
+[02:44:31] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.3481330486324623
+[02:44:32] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.2912922178222743
+[02:44:32] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.33608979379005177
+[02:44:32] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.6197134590397582
+[02:44:32] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.6877935238081638
+[02:44:32] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/61941, l='ServerLevel[world]', x=3559.30, y=-100.00, z=1525.58] died: Nightmare Steed was killed
+[02:44:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14255ms or 285 ticks behind
+[02:45:03] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.6151749294892852
+[02:45:03] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.3087060543202278
+[02:45:03] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 2.07845265324823
+[02:45:03] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 2.8166417945672557
+[02:45:07] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/63196, l='ServerLevel[world]', x=3650.31, y=-124.00, z=1453.03] died: Nightmare Steed was killed
+[02:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14077ms or 281 ticks behind
+[02:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14445ms or 288 ticks behind
+[02:46:20] [Server thread/INFO]: Mango has made the advancement [Base for upgrades]
+[02:46:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15611ms or 312 ticks behind
+[02:46:46] [Server thread/INFO]: Mango has made the advancement [Diamond Tier Upgrade]
+[02:46:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18419ms or 368 ticks behind
+[02:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20899ms or 417 ticks behind
+[02:48:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20635ms or 412 ticks behind
+[02:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23687ms or 473 ticks behind
+[02:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25564ms or 511 ticks behind
+[02:49:39] [Server thread/INFO]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[02:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15589ms or 311 ticks behind
+[02:50:07] [Server thread/INFO]: No return portal found
+[02:50:07] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of nino_alf accepted server config.
+[02:50:28] [Server thread/WARN]: galaxy65m moved wrongly!
+[02:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20329ms or 406 ticks behind
+[02:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19970ms or 399 ticks behind
+[02:51:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19595ms or 391 ticks behind
+[02:52:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18330ms or 366 ticks behind
+[02:52:40] [Server thread/INFO]: Mango has made the advancement [Iron Tier Upgrade]
+[02:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24144ms or 482 ticks behind
+[02:53:12] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.7599805823214183
+[02:53:12] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.9085676813451471
+[02:53:12] [Server thread/INFO]: Mango has made the advancement [Gold Tier Upgrade]
+[02:53:12] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 0.3281243830446954
+[02:53:13] [Server thread/WARN]: Nightmare Steed (vehicle of nino_alf) moved wrongly! 1.0
+[02:53:17] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/67700, l='ServerLevel[world]', x=322.22, y=-159.00, z=212.27] died: Nightmare Steed was killed
+[02:53:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21727ms or 434 ticks behind
+[02:54:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20311ms or 406 ticks behind
+[02:54:39] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/69031, l='ServerLevel[world]', x=512.70, y=-167.00, z=-9.49] died: Nightmare Steed was killed
+[02:54:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21724ms or 434 ticks behind
+[02:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22479ms or 449 ticks behind
+[02:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22534ms or 450 ticks behind
+[02:56:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19235ms or 384 ticks behind
+[02:56:53] [Server thread/INFO]: galaxy65m lost connection: Timed out
+[02:56:53] [Server thread/INFO]: galaxy65m left the game
+[02:56:53] [Server thread/INFO]: remove player wand
+[02:56:53] [Server thread/INFO]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[02:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16256ms or 325 ticks behind
+[02:57:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11920ms or 238 ticks behind
+[02:57:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11741ms or 234 ticks behind
+[02:58:08] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/71686, l='ServerLevel[world]', x=466.86, y=-174.00, z=-37.52] died: Nightmare Steed was killed
+[02:58:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10165ms or 203 ticks behind
+[02:58:27] [Server thread/INFO]: nino_alf fell out of the world
+[02:58:29] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of nino_alf accepted server config.
+[02:58:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9518ms or 190 ticks behind
+[02:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9056ms or 181 ticks behind
+[02:59:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9285ms or 185 ticks behind
+[02:59:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8866ms or 177 ticks behind
+[03:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9132ms or 182 ticks behind
+[03:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9314ms or 186 ticks behind
+[03:01:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8827ms or 176 ticks behind
+[03:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10150ms or 203 ticks behind
+[03:01:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8733ms or 174 ticks behind
+[03:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9632ms or 192 ticks behind
+[03:02:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9588ms or 191 ticks behind
+[03:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11226ms or 224 ticks behind
+[03:03:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7407ms or 148 ticks behind
+[03:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7718ms or 154 ticks behind
+[03:04:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8435ms or 168 ticks behind
+[03:04:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8284ms or 165 ticks behind
+[03:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7973ms or 159 ticks behind
+[03:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8668ms or 173 ticks behind
+[03:05:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9372ms or 187 ticks behind
+[03:06:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12752ms or 255 ticks behind
+[03:06:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12151ms or 243 ticks behind
+[03:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11843ms or 236 ticks behind
+[03:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11375ms or 227 ticks behind
+[03:08:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14365ms or 287 ticks behind
+[03:08:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12231ms or 244 ticks behind
+[03:08:47] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/75765, l='ServerLevel[world]', x=3656.93, y=-122.12, z=1425.89] died: Nightmare Steed was killed
+[03:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13816ms or 276 ticks behind
+[03:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12202ms or 244 ticks behind
+[03:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18834ms or 376 ticks behind
+[03:10:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15034ms or 300 ticks behind
+[03:11:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13956ms or 279 ticks behind
+[03:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12404ms or 248 ticks behind
+[03:12:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11571ms or 231 ticks behind
+[03:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11318ms or 226 ticks behind
+[03:12:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10827ms or 216 ticks behind
+[03:13:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11715ms or 234 ticks behind
+[03:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11782ms or 235 ticks behind
+[03:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13040ms or 260 ticks behind
+[03:14:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22737ms or 454 ticks behind
+[03:15:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21272ms or 425 ticks behind
+[03:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18697ms or 373 ticks behind
+[03:16:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17053ms or 341 ticks behind
+[03:16:47] [Server thread/INFO]: kenro06 lost connection: Disconnected
+[03:16:47] [Server thread/INFO]: kenro06 left the game
+[03:16:47] [Server thread/INFO]: remove player wand
+[03:16:47] [Server thread/INFO]: Updating all forceload tickets for 5e9f35a5-82d0-3729-9e06-c09d59ced6d0
+[03:16:48] [Server thread/INFO]: [Handshake] Sending channel query
+[03:16:48] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[03:16:48] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[03:16:49] [Server thread/INFO]: kenro06[/127.8.80.54:51667] logged in with entity id 80904 at (2641.6529719482414, 69.0, 1585.4679611230915)
+[03:16:49] [Server thread/INFO]: Sending server config values to client
+[03:16:49] [Server thread/INFO]: Syncing config to kenro06 (5e9f35a5-82d0-3729-9e06-c09d59ced6d0)
+[03:16:49] [Server thread/INFO]: Loading config from file...
+[03:16:49] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[03:16:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:16:49] [Server thread/INFO]: kenro06 joined the game
+[03:16:49] [Server thread/INFO]: Loading Configs for Sortilege
+[03:16:49] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[03:16:49] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[03:16:49] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[03:16:49] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:16:49] [Server thread/INFO]: Updating all forceload tickets for 5e9f35a5-82d0-3729-9e06-c09d59ced6d0
+[03:16:49] [Server thread/INFO]: PLAYER_JOIN
+[03:16:49] [Server thread/INFO]: add_player wand
+[03:16:49] [Server thread/INFO]: config sent
+[03:16:50] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[03:16:50] [Netty Epoll Server IO #4/INFO]: Channel update: kenro06 -> default
+[03:16:50] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player kenro06. Claiming: GRAVE / Robbing: INVENTORY
+[03:17:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15985ms or 319 ticks behind
+[03:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15924ms or 318 ticks behind
+[03:18:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12840ms or 256 ticks behind
+[03:18:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6674ms or 133 ticks behind
+[03:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4633ms or 92 ticks behind
+[03:19:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4375ms or 87 ticks behind
+[03:19:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6599ms or 131 ticks behind
+[03:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10392ms or 207 ticks behind
+[03:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11730ms or 234 ticks behind
+[03:20:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11762ms or 235 ticks behind
+[03:21:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11312ms or 226 ticks behind
+[03:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13467ms or 269 ticks behind
+[03:22:09] [Server thread/INFO]: [Handshake] Sending channel query
+[03:22:09] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[03:22:09] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[03:22:09] [Server thread/INFO]: galaxy65m[/127.24.0.73:36233] logged in with entity id 84316 at (3171.90987332968, 91.0, 1461.3900000154972)
+[03:22:09] [Server thread/INFO]: Sending server config values to client
+[03:22:09] [Server thread/INFO]: Syncing config to galaxy65m (df766ae6-3208-3bf3-8926-4d9ae4061ea9)
+[03:22:09] [Server thread/INFO]: Loading config from file...
+[03:22:09] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[03:22:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:22:09] [Server thread/INFO]: galaxy65m joined the game
+[03:22:09] [Server thread/INFO]: Loading Configs for Sortilege
+[03:22:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[03:22:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[03:22:09] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[03:22:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:22:10] [Server thread/INFO]: PLAYER_JOIN
+[03:22:10] [Server thread/INFO]: add_player wand
+[03:22:10] [Server thread/INFO]: config sent
+[03:22:10] [Server thread/INFO]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[03:22:12] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[03:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18550ms or 371 ticks behind
+[03:22:18] [Netty Epoll Server IO #6/INFO]: Channel update: galaxy65m -> default
+[03:22:18] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player galaxy65m. Claiming: GRAVE / Robbing: INVENTORY
+[03:22:23] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[03:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21078ms or 421 ticks behind
+[03:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20209ms or 404 ticks behind
+[03:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18447ms or 368 ticks behind
+[03:24:10] [Server thread/INFO]: [galaxy65m: Set the weather to rain]
+[03:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20107ms or 402 ticks behind
+[03:25:04] [Server thread/INFO]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03:25:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22202ms or 444 ticks behind
+[03:25:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14852ms or 297 ticks behind
+[03:26:06] [Server thread/INFO]: No return portal found
+[03:26:06] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of nino_alf accepted server config.
+[03:26:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12575ms or 251 ticks behind
+[03:26:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13928ms or 278 ticks behind
+[03:26:40] [Server thread/INFO]: kenro06 has made the advancement [The Basics]
+[03:26:40] [Server thread/INFO]: kenro06 has made the advancement [Enchanter]
+[03:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14496ms or 289 ticks behind
+[03:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18993ms or 379 ticks behind
+[03:27:59] [Server thread/INFO]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03:27:59] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[03:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16873ms or 337 ticks behind
+[03:28:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17225ms or 344 ticks behind
+[03:29:07] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/88083, l='ServerLevel[world]', x=459.07, y=-109.77, z=259.17] died: Nightmare Steed was killed
+[03:29:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17719ms or 354 ticks behind
+[03:29:25] [Worker-Main-150/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/88223, l='ServerLevel[world]', x=669.00, y=31.00, z=437.00] as it would cause deadlock
+[03:29:25] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/88226, l='ServerLevel[world]', x=669.00, y=31.00, z=437.00] as it would cause deadlock
+[03:29:44] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/88490, l='ServerLevel[world]', x=498.83, y=-104.97, z=249.56] died: Nightmare Steed was killed
+[03:29:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16600ms or 332 ticks behind
+[03:30:20] [Server thread/INFO]: kenro06 has completed the challenge [Expansion Unlock: Void's Invasion]
+[03:30:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14790ms or 295 ticks behind
+[03:30:48] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/88837, l='ServerLevel[world]', x=503.27, y=-177.86, z=-16.69] died: Nightmare Steed was killed
+[03:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19699ms or 393 ticks behind
+[03:31:01] [Server thread/INFO]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16354ms or 327 ticks behind
+[03:31:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15670ms or 313 ticks behind
+[03:32:08] [Server thread/INFO]: [galaxy65m: Teleported 4 entities to galaxy65m]
+[03:32:08] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Mango accepted server config.
+[03:32:12] [Server thread/INFO]: kenro06 has made the advancement [A Terrible Fortress]
+[03:32:12] [Server thread/INFO]: Mango has made the advancement [A Terrible Fortress]
+[03:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10891ms or 217 ticks behind
+[03:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11972ms or 239 ticks behind
+[03:33:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03:33:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[03:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[03:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[03:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
+[03:34:27] [Server thread/INFO]: galaxy65m has made the advancement [Through the Gauntlet]
+[03:34:27] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[03:34:27] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[03:34:27] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[03:34:27] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[03:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[03:35:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[03:35:14] [Server thread/INFO]: [galaxy65m: Summoned new Nether Gauntlet]
+[03:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[03:35:50] [Server thread/INFO]: galaxy65m was slain by Nether Gauntlet
+[03:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03:35:53] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[03:35:58] [Server thread/INFO]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03:35:58] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[03:36:01] [Server thread/INFO]: kenro06 was slain by Nether Gauntlet
+[03:36:08] [Server thread/INFO]: [galaxy65m: Teleported 4 entities to galaxy65m]
+[03:36:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7069ms or 141 ticks behind
+[03:36:15] [Server thread/INFO]: galaxy65m was slain by Nether Gauntlet
+[03:36:18] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[03:36:21] [Server thread/INFO]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03:36:21] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[03:36:24] [Server thread/INFO]: nino_alf was slain by Nether Gauntlet
+[03:36:26] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of nino_alf accepted server config.
+[03:36:30] [Server thread/INFO]: [galaxy65m: Teleported nino_alf to galaxy65m]
+[03:36:30] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of nino_alf accepted server config.
+[03:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6684ms or 133 ticks behind
+[03:36:44] [Server thread/INFO]: galaxy65m was slain by Nether Gauntlet
+[03:36:46] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[03:36:50] [Server thread/INFO]: [galaxy65m: Teleported galaxy65m to nino_alf]
+[03:36:50] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[03:36:53] [Server thread/INFO]: kenro06 was slain by Nether Gauntlet
+[03:36:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6265ms or 125 ticks behind
+[03:37:00] [Server thread/INFO]: [galaxy65m: Teleported 4 entities to galaxy65m]
+[03:37:13] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[03:37:13] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[03:37:13] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[03:37:13] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[03:37:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5711ms or 114 ticks behind
+[03:37:26] [Server thread/INFO]: Mango has completed the challenge [Centennial]
+[03:37:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03:38:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[03:38:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03:38:57] [Server thread/INFO]: Mango has made the advancement [Downer]
+[03:39:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[03:39:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:39:38] [Server thread/INFO]: nino_alf was slain by galaxy65m
+[03:39:40] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of nino_alf accepted server config.
+[03:40:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9460ms or 189 ticks behind
+[03:40:08] [Server thread/INFO]: Mango has made the advancement [Into Fire]
+[03:40:28] [Server thread/INFO]: kenro06 has made the advancement [Stare Into Despair]
+[03:40:28] [Server thread/INFO]: kenro06 has made the advancement [The Beginning of An Adventure]
+[03:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11473ms or 229 ticks behind
+[03:40:44] [Server thread/INFO]: galaxy65m tried to swim in lava
+[03:40:45] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[03:40:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11862ms or 237 ticks behind
+[03:41:08] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/93688, l='ServerLevel[world]', x=3606.81, y=-173.00, z=1418.42] died: Nightmare Steed was killed
+[03:41:20] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/94020, l='ServerLevel[world]', x=3577.22, y=-188.00, z=1395.76] died: Nightmare Steed was killed
+[03:41:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17200ms or 344 ticks behind
+[03:41:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16608ms or 332 ticks behind
+[03:42:09] [Server thread/INFO]: kenro06 has made the advancement [Spooky Scary Skeleton]
+[03:42:09] [Worker-Main-137/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/94742, l='ServerLevel[world]', x=779.00, y=31.00, z=-246.00] as it would cause deadlock
+[03:42:09] [Worker-Main-137/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/94745, l='ServerLevel[world]', x=754.00, y=31.00, z=-242.00] as it would cause deadlock
+[03:42:10] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/94748, l='ServerLevel[world]', x=779.00, y=31.00, z=-246.00] as it would cause deadlock
+[03:42:10] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/94761, l='ServerLevel[world]', x=754.00, y=31.00, z=-242.00] as it would cause deadlock
+[03:42:14] [Server thread/INFO]: Mango has made the advancement [Stare Into Despair]
+[03:42:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16134ms or 322 ticks behind
+[03:43:01] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of galaxy65m accepted server config.
+[03:43:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18654ms or 373 ticks behind
+[03:43:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13737ms or 274 ticks behind
+[03:43:36] [Server thread/INFO]: Mango has made the advancement [Eyes Open]
+[03:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13280ms or 265 ticks behind
+[03:44:19] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[03:44:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12364ms or 247 ticks behind
+[03:44:37] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[03:44:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12095ms or 241 ticks behind
+[03:45:03] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[03:45:09] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[03:45:20] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[03:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12266ms or 245 ticks behind
+[03:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13671ms or 273 ticks behind
+[03:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12527ms or 250 ticks behind
+[03:46:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12368ms or 247 ticks behind
+[03:47:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11310ms or 226 ticks behind
+[03:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12771ms or 255 ticks behind
+[03:47:53] [Server thread/INFO]: nino_alf has made the advancement [A Realistical Logical Ideologist]
+[03:48:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13494ms or 269 ticks behind
+[03:48:12] [Server thread/INFO]: kenro06 has made the advancement [Ice Bucket Challenge]
+[03:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14172ms or 283 ticks behind
+[03:49:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15061ms or 301 ticks behind
+[03:49:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14406ms or 288 ticks behind
+[03:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14963ms or 299 ticks behind
+[03:50:10] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/98944, l='ServerLevel[world]', x=3591.08, y=-205.35, z=1420.29] died: Nightmare Steed was killed
+[03:50:27] [Server thread/INFO]: [galaxy65m: Set own game mode to Spectator Mode]
+[03:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12613ms or 252 ticks behind
+[03:50:43] [Server thread/INFO]: [galaxy65m: Set own game mode to Survival Mode]
+[03:51:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12566ms or 251 ticks behind
+[03:51:03] [Server thread/INFO]: Named entity class_1506['Nightmare Steed'/99639, l='ServerLevel[world]', x=3577.59, y=-232.00, z=1436.15] died: Nightmare Steed was killed
+[03:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12321ms or 246 ticks behind
+[03:51:55] [Server thread/INFO]: nino_alf lost connection: Disconnected
+[03:51:55] [Server thread/INFO]: nino_alf left the game
+[03:51:55] [Server thread/INFO]: remove player wand
+[03:51:55] [Server thread/INFO]: Updating all forceload tickets for 0353a03d-9344-32df-a99e-c414295afec8
+[03:51:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12560ms or 251 ticks behind
+[03:52:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5451ms or 109 ticks behind
+[03:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2762ms or 55 ticks behind
+[03:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3491ms or 69 ticks behind
+[03:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4109ms or 82 ticks behind
+[03:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3887ms or 77 ticks behind
+[03:53:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5768ms or 115 ticks behind
+[03:54:02] [Server thread/INFO]: [galaxy65m: Set own game mode to Spectator Mode]
+[03:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[03:54:17] [Server thread/INFO]: [galaxy65m: Set own game mode to Survival Mode]
+[03:54:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3404ms or 68 ticks behind
+[03:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5565ms or 111 ticks behind
+[03:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6385ms or 127 ticks behind
+[03:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9063ms or 181 ticks behind
+[03:55:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9371ms or 187 ticks behind
+[03:56:18] [Worker-Main-150/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/103016, l='ServerLevel[world]', x=590.00, y=31.00, z=636.00] as it would cause deadlock
+[03:56:18] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/103027, l='ServerLevel[world]', x=590.00, y=31.00, z=636.00] as it would cause deadlock
+[03:56:18] [Worker-Main-149/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/103031, l='ServerLevel[world]', x=670.00, y=31.00, z=636.00] as it would cause deadlock
+[03:56:18] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/103043, l='ServerLevel[world]', x=670.00, y=31.00, z=636.00] as it would cause deadlock
+[03:56:19] [Worker-Main-149/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/103057, l='ServerLevel[world]', x=295.00, y=31.00, z=627.00] as it would cause deadlock
+[03:56:19] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/103062, l='ServerLevel[world]', x=295.00, y=31.00, z=627.00] as it would cause deadlock
+[03:56:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9237ms or 184 ticks behind
+[03:56:23] [Server thread/INFO]: [galaxy65m: Summoned new Primed TNT]
+[03:56:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8879ms or 177 ticks behind
+[03:57:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11069ms or 221 ticks behind
+[03:57:16] [Server thread/INFO]: [galaxy65m: Summoned new Primed TNT]
+[03:57:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10507ms or 210 ticks behind
+[03:57:50] [Server thread/INFO]: [galaxy65m: Summoned new Primed TNT]
+[03:57:58] [Server thread/INFO]: kenro06 has made the advancement [Downer]
+[03:58:01] [Server thread/INFO]: galaxy65m lost connection: Disconnected
+[03:58:01] [Server thread/INFO]: galaxy65m left the game
+[03:58:01] [Server thread/INFO]: remove player wand
+[03:58:01] [Server thread/INFO]: Updating all forceload tickets for df766ae6-3208-3bf3-8926-4d9ae4061ea9
+[03:58:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11791ms or 235 ticks behind
+[03:58:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[03:59:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03:59:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[04:00:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04:00:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[04:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04:01:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[04:02:02] [Server thread/INFO]: Mango tried to swim in lava
+[04:02:02] [Server thread/INFO]: Created new backpack backup file for Mango with unique ID travelersbackpack.standard_15.11.2025-04.02.02.dat
+[04:02:03] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Mango accepted server config.
+[04:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5217ms or 104 ticks behind
+[04:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3181ms or 63 ticks behind
+[04:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2709ms or 54 ticks behind
+[04:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
+[04:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3247ms or 64 ticks behind
+[04:03:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[04:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04:04:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+[04:04:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[04:04:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[04:04:56] [Server thread/INFO]: Mango lost connection: Disconnected
+[04:04:56] [Server thread/INFO]: Mango left the game
+[04:04:56] [Server thread/INFO]: remove player wand
+[04:04:56] [Server thread/INFO]: Updating all forceload tickets for f023f4b2-7d77-3a9f-a9b1-45934966c6f3
+[04:06:09] [Server thread/INFO]: [Handshake] Sending channel query
+[04:06:09] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[04:06:09] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[04:06:09] [Server thread/INFO]: Mango[/127.201.206.122:39079] logged in with entity id 110169 at (2913.4403490343207, 68.0, 1291.6723090878897)
+[04:06:09] [Server thread/INFO]: Sending server config values to client
+[04:06:09] [Server thread/INFO]: Syncing config to Mango (f023f4b2-7d77-3a9f-a9b1-45934966c6f3)
+[04:06:09] [Server thread/INFO]: Loading config from file...
+[04:06:09] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[04:06:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:06:09] [Server thread/INFO]: Mango joined the game
+[04:06:09] [Server thread/INFO]: Loading Configs for Sortilege
+[04:06:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[04:06:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[04:06:09] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[04:06:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[04:06:09] [Server thread/INFO]: Updating all forceload tickets for f023f4b2-7d77-3a9f-a9b1-45934966c6f3
+[04:06:09] [Server thread/INFO]: PLAYER_JOIN
+[04:06:09] [Server thread/INFO]: add_player wand
+[04:06:09] [Server thread/INFO]: config sent
+[04:06:11] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[04:06:12] [Netty Epoll Server IO #3/INFO]: Channel update: Mango -> default
+[04:06:12] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Mango. Claiming: GRAVE / Robbing: INVENTORY
+[04:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[04:06:14] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Mango accepted server config.
+[04:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10772ms or 215 ticks behind
+[04:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9241ms or 184 ticks behind
+[04:07:07] [Server thread/INFO]: kenro06 tried to swim in lava
+[04:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3335ms or 66 ticks behind
+[04:07:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5125ms or 102 ticks behind
+[04:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6703ms or 134 ticks behind
+[04:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[04:08:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04:09:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04:09:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:09:24] [Server thread/INFO]: }stop<--[HERE]
+[04:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04:09:37] [Server thread/INFO]: You whisper to Mango: matalos a todos
+[04:09:53] [Server thread/INFO]: You whisper to Mango: Mataa kenro
+[04:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[04:10:09] [Server thread/INFO]: You whisper to kenro06: mata a erick
+[04:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04:10:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:10:28] [Server thread/INFO]: Msg @a Matense todos<--[HERE]
+[04:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
+[04:10:34] [Server thread/INFO]: Stopping the server
+[04:10:34] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[04:10:34] [Server thread/INFO]: Resetting environment controller...
+[04:10:34] [Server thread/INFO]: Stopping server
+[04:10:34] [Server thread/INFO]: Saving players
+[04:10:34] [Server thread/INFO]: Mango lost connection: Server closed
+[04:10:34] [Server thread/INFO]: Mango left the game
+[04:10:34] [Server thread/INFO]: remove player wand
+[04:10:34] [Server thread/INFO]: Updating all forceload tickets for f023f4b2-7d77-3a9f-a9b1-45934966c6f3
+[04:10:34] [Server thread/INFO]: Saving worlds
+[04:10:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/prominent:cinderstone_depths
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:prison
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/spellbladenext:glassocean
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:promenade
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:insufferable_crypt
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/prominent:vaaz_volcano
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:black_bridge
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:ramparts
+[04:10:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (cinderstone_depths): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (glassocean): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (vaaz_volcano): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[04:10:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:10:40] [Server thread/INFO]: Stopping IO worker...
+[04:10:40] [Server thread/INFO]: Stopped IO worker!
